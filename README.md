@@ -1,6 +1,6 @@
 # 🎟️ Projeto Mobile Tickets
 
-Este repositório contém o código do aplicativo **Mobile Tickets**, desenvolvido como entrega das **Listas 3 e 4** para a disciplina do Prof. João Ferreira.
+Este repositório contém o código do aplicativo **Mobile Tickets**, desenvolvido como entrega do projeto para a disciplina do Prof. João Ferreira.
 
 ## 📱 Sobre o Projeto
 O projeto é um aplicativo mobile criado do zero utilizando o framework **Ionic** com **Angular**. O objetivo foi estruturar o ambiente de desenvolvimento, criar a interface das telas solicitadas e realizar o versionamento de código completo utilizando **Git** e **GitHub**.
